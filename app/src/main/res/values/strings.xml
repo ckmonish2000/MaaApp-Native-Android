@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MaaApp</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="log_in">User LOGIN</string>
+    <string name="your_orders">Your Orders</string>
+    <string name="mk">MK</string>
+    <string name="restaurant_login">Restaurant Login</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="check_orders">check Orders</string>
+    <string name="menu">Menu</string>
+</resources>
